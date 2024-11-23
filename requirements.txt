@@ -1,0 +1,7 @@
+torch
+transformers
+chainlit
+byaldi
+flash-attn
+pdf2image
+accelerate
